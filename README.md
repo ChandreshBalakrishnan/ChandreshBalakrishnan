@@ -14,4 +14,4 @@ I've also built a physics-informed neural network that prices options faster and
 
 Previously, I was an Automotive AI Research Intern at U of T, working on traffic detection and driver drowsiness.
 
-If you want to chat about vision, ML, or anything I'm building, find me on [LinkedIn](https://linkedin.com/in/chandresh-balakrishnan) or at balakrishnanchandresh@gmail.com.
+If you want to chat about vision, ML, or anything I'm building, find me on [LinkedIn](https://linkedin.com/in/chandresh-balakrishnan)
